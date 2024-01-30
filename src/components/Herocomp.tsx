@@ -4,7 +4,7 @@ import Image from 'next/image';
 const Herocomp = () => {
   return (
     <>
-      <div className="w-3/5 bg-slate-50 mx-auto  flex mt-28 justify-center items-center flex-col">
+      <div className="w-3/5  mx-auto  flex mt-28 justify-center items-center flex-col">
         <div className="text-5xl font-bold mb-2 tracking-tighter trackin ">
           Business. Simplified.
         </div>
